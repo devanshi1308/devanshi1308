@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @devanshi1308
+- 😄 Pronouns: she/her
+- 🌱 I’m currently learning BTech CSBS
+- 🥅 Current goal: Code problem based on C++
+- ⚡ Fun fact: I love to draw and dance.
