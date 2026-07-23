@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Devanshi 👋<br><br>I'm a Computer Science & Business Systems student at MPSTME, Mumbai, interested in AI agents, retrieval-augmented generation, and applied ML.<br><br>Right now I'm exploring how agents can reason, use tools, and orchestrate multi-step workflows — most recently through Serene, an AI wellness coach built with RAG and LangGraph-based multi-agent orchestration. I'm also researching Graph Neural Networks for recommendation systems as part of a research internship at NMIMS.<br><br>🌱 Learning: agent architectures, tool-calling patterns, LLM orchestration<br>📫 Reach me: devanshikambli2006@gmail.com
+Hi, I'm Devanshi 👋<br><br>I'm a Computer Science & Business Systems student at MPSTME, Mumbai, interested in AI agents, retrieval-augmented generation, and applied ML.<br><br>Right now I'm exploring how agents can reason, use tools, and orchestrate multi-step workflows. I'm also researching Graph Neural Networks for recommendation systems as part of a research internship at NMIMS.<br><br>🌱 Learning: agent architectures, tool-calling patterns, LLM orchestration<br>📫 Reach me: devanshikambli2006@gmail.com
 
 
 # 💻 Tech Stack:
@@ -9,5 +9,5 @@ Hi, I'm Devanshi 👋<br><br>I'm a Computer Science & Business Systems student a
 ![](https://streak-stats.demolab.com/?user=devanshi1308&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=devanshi1308&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
